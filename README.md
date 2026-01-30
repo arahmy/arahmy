@@ -1,43 +1,54 @@
-# Salut 👋, je suis Arthur
+# 👋 Salut, moi c’est Arthur
 
-**👀 Passionné d'informatique**
-
-- 💻 Actuellement en train de travailler sur [ARAHMY.CLOUD](https://arahmy.cloud)
-- 📚 J'apprends activement **PHP** et **Python**
-- 🛠️ J'utilise la suite **JetBrains** pour tous mes développements
-- 📫 Contactez-moi : [admin@arahmy.cloud](mailto:admin@arahmy.cloud)
+🎓 Étudiant en informatique  
+💻 Passionné par le développement, les systèmes et les projets ambitieux  
+🚀 Créateur de la suite d’applications **Atlas**
 
 ---
 
-### 🛠️ Compétences techniques et outils utilisés
+## 🧠 À propos de moi
 
-#### **Languages & Frameworks**
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-#### **DevOps & Outils**
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/IFTTT-000000?style=for-the-badge&logo=ifttt&logoColor=white" />
-  <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" />
-</p>
+- 🔧 J’aime concevoir des applications complètes, du backend au frontend  
+- 🌐 Intéressé par le **web**, le **réseau**, la **sécurité** et les systèmes  
+- 🤝 J’apprécie les projets collaboratifs et apprendre en construisant
+- 📈 Toujours en quête d’amélioration et de nouveaux défis
 
 ---
 
-**Statistiques de profil :**
+## 🧩 Projets principaux
 
-![Profile views](https://komarev.com/ghpvc/?username=arahmy&color=blue)
+### 🗺️ Atlas
+Suite d’applications collaborative inspirée des suites bureautiques modernes.
+
+**Fonctionnalités clés :**
+- Éditeur de texte avancé (type Word)
+- Collaboration en temps réel
+- Gestion des utilisateurs
+- Logs & sécurité
+
+👉 *Projet en cours de développement*
 
 ---
 
-Merci de visiter mon profil, n'hésitez pas à explorer mes projets et à me contacter si vous avez des questions ou des opportunités. 😊
+## 🛠️ Technologies & outils
+
+- **Langages** : HTML, CSS, JavaScript, SQL  
+- **Backend** : Node.js / PHP  
+- **Réseau** : Cisco, NAT, VLAN, routage  
+- **Outils** : Git, GitHub, Linux, Docker (bases)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=arahmy&show_icons=true&theme=dark)
+
+---
+
+## 📫 Me contacter
+
+- GitHub : [@TON_USERNAME](https://github.com/arahmy)
+
+---
+
+⭐ N’hésite pas à explorer mes repositories et à suivre mon travail !
