@@ -47,7 +47,7 @@ Suite d’applications collaborative inspirée des suites bureautiques modernes.
 
 ## 📫 Me contacter
 
-- GitHub : [@TON_USERNAME](https://github.com/arahmy)
+- GitHub : [@arahmy](https://github.com/arahmy)
 
 ---
 
